@@ -74,6 +74,7 @@
   - [DuckDuckGo AI Chat](https://duck.ai/)
   - [Firefox](https://www.mozilla.org/firefox/)
   - [Git](https://git-scm.com/)
+  - [Musicolet](https://krosbits.in/musicolet/)
   - [Neovim](https://neovim.io/)
   - [Niagara Launcher](https://niagaralauncher.app/)
   - [Nix](https://nixos.org/)
