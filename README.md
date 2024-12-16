@@ -75,6 +75,7 @@
   - [Firefox](https://www.mozilla.org/firefox/)
   - [Git](https://git-scm.com/)
   - [Neovim](https://neovim.io/)
+  - [Niagara Launcher](https://niagaralauncher.app/)
   - [Nix](https://nixos.org/)
   - [Nushell](https://www.nushell.sh/)
   - [Scoop](https://scoop.sh/)
